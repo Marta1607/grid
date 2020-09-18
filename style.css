@@ -1,0 +1,11 @@
+.gridcontainer {
+    display: grid;
+    grid-template-columns: auto, auto, auto, auto;
+    background-color: blueviolet;
+    padding: 5px;
+}
+.griditem{
+    background-color: purple;
+    border: 1px solid rgba(0,0,0,0.8);
+    
+}
